@@ -1,0 +1,23 @@
+baseURL: https://ali.dowair.com/
+languageCode: en-us
+title: Ali Dowair
+theme: PaperMod
+
+params:
+  env: production
+  profileMode:
+    enabled: true
+    title: Hello, I'm Ali!
+    subtitle: I am a Certified Kubernetes Application Developer (CKAD) with 3 years of experience building virtualized and distributed storage for the cloud.
+    keywords: [blog, page]
+    copyright: © 2023 Ali Dowair
+    buttons:
+    - name: Hire Me!
+      url: https://linkedin.com/in/alidowair
+  socialIcons:
+  - name: github
+    url: https://github.com/adowair
+  - name: linkedin
+    url: https://linkedin.com/in/alidowair
+  - name: email
+    url: mailto:ali@dowair.com
