@@ -7,15 +7,16 @@ languages:
   en:
     title: Ali Dowair
     weight: 1
+    contentDir: content/
     languageDirection: ltr
     languageName: English
     languageCode: en-us
     params:
       env: production
-      profileMode:
+      homeInfoParams:
         enabled: true
         title: Hello, I'm Ali!
-        subtitle: I am a Certified Kubernetes Application Developer (CKAD) with 3 years of experience building virtualized and distributed storage for the cloud.
+        content: I am a Certified Kubernetes Application Developer (CKAD) with 3 years of experience building virtualized and distributed storage for the cloud.
         keywords: [blog, page]
         buttons:
         - name: Hire Me!
@@ -29,16 +30,17 @@ languages:
         url: mailto:ali@dowair.com
   ar:
     weight: 2
+    contentDir: content/
     title: علي دوير
     languageDirection: rtl
     languageName: Arabic
     languageCode: ar
     params:
       env: production
-      profileMode:
+      homeInfoParams:
         enabled: true
         title: مرحباً، أنا عَلِّيٌ
-        subtitle: أنا مهندس حاسوب و مطور تطبيقات (kubernetes) معتمد (CKAD). لدي خبرة ٣ سنوات في تطوير حلول التخزين الإفتراضية والموزعة لدى عدة شركات عالمية. حصلت على درجة البكالريوس من جامعة مشيجان بالولايات المتحدة الأمريكية سنة ٢٠٢٠م.
+        content: أنا مهندس حاسوب و مطور تطبيقات (kubernetes) معتمد (CKAD). لدي خبرة ٣ سنوات في تطوير حلول التخزين الإفتراضية والموزعة لدى عدة شركات عالمية. حصلت على درجة البكالريوس من جامعة مشيجان بالولايات المتحدة الأمريكية سنة ٢٠٢٠م.
         keywords: [blog, page]
         buttons:
         - name: وَظِّفني
