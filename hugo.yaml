@@ -26,8 +26,6 @@ languages:
         url: https://github.com/adowair
       - name: linkedin
         url: https://linkedin.com/in/alidowair
-      - name: email
-        url: mailto:ali@dowair.com
   ar:
     weight: 2
     contentDir: content/
@@ -50,5 +48,3 @@ languages:
         url: https://github.com/adowair
       - name: linkedin
         url: https://linkedin.com/in/alidowair
-      - name: email
-        url: mailto:ali@dowair.com
