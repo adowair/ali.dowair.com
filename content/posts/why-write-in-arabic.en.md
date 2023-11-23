@@ -136,20 +136,3 @@ beautifully explained to me once:
 
 If you like what you're reading,
 shoot me a message or follow me on [LinkedIn](https://linkedin.com/in/alidowair)!
-
-
-
-
-
-
-<!-- it forms the lexical basis for all programming languages used in production.[^2]
-
-[^2]: Several [non-English programming languages](https://en.wikipedia.org/wiki/Non-English-based_programming_languages) exist,
-but most of these were created for educational or experimental purposes. -->
-
-
-
-
-
-
-
