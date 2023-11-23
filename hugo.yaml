@@ -2,7 +2,6 @@ baseURL: https://ali.dowair.com/
 theme: PaperMod
 
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
 languages:
   en:
     title: Ali Dowair
