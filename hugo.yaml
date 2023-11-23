@@ -1,6 +1,7 @@
 baseURL: https://ali.dowair.com/
 theme: PaperMod
 baseUrl: "/"
+relativeURLs: true
 
 defaultContentLanguage: en
 languages:
