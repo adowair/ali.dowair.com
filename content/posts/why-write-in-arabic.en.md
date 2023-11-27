@@ -11,16 +11,16 @@ In the last couple of years,
 I have reflected on my life and career journey
 as an immigrant software engineer.
 I made a mental map of all the connections,
-experiences, and knowledge, I gained over time.
+experiences, and knowledge I gained over time.
 I found many connections between these,
 but the main one was that _they all happened in English_.
 
 I am an Arab, born and raised in the Middle East.
 I speak English fluently, but it is not my first language;
 unlike many, I have been fortunate enough to learn it from a young age.
-Would my life any career be much different had I not had that chance?
+Would my life and career be much different had I not had that chance?
 
-Of course, everyone's life is unique and different-
+Of course, everyone's life is unique--
 it would be impossible for me to answer that question for myself.
 I could, however, try to understand whether there was a problem at large.
 
@@ -51,7 +51,7 @@ Yet only [0.6%](https://w3techs.com/technologies/history_overview/content_langua
 of internet content is written in Arabic, and that figure is diminishing.
 
 So what gives? Is it that Arabic speakers at large are learning English
-and choosing to use that on the internet?
+(and choosing to use that on the internet)?
 The EF [English Proficiency Index 2023 report](https://www.ef.com/wwen/epi/)
 might indicate otherwise:
 > The average level of English proficiency in the Middle East
@@ -134,5 +134,5 @@ beautifully explained to me once:
 
 ---
 
-If you like what you're reading,
-shoot me a message or follow me on [LinkedIn](https://linkedin.com/in/alidowair)!
+If you like what you're reading or have any feedback,
+shoot me a message or follow me on [LinkedIn](https://linkedin.com/in/alidowair).
