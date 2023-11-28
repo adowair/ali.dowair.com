@@ -95,7 +95,8 @@ to localize the [CNCF glossary](https://www.cncf.io/blog/2022/01/11/join-the-cnc
 and [Kubernetes documentation](https://kubernetes.io/docs/contribute/localization/)
 to different languages.
 The Arabic versions of these are still on the way,
-so I decided to do some Google-Fu to dervice some heuristic
+so it's not possible to gauge their success just yet.
+I decided to do my best Google-Fu to derive some heuristic
 as to how well Arabic is represented in the Cloud Native world:
 
 A quick Google search for the term "Kubernetes" in different languages returned:
@@ -103,7 +104,7 @@ A quick Google search for the term "Kubernetes" in different languages returned:
 - About 185,000,000 results in Chinese ("庫伯內特斯", "库伯内特斯")
 - **But only 2,500 in Arabic** ("كوبرنتس", "كوبرنيتس", "كوبرنيتيس")
 
-While it's probably not entirely accurate,
+While it's probably not very accurate,
 I found that this result says enough.
 Arabic has not gained enough traction yet.
 We can do something about this!
@@ -113,7 +114,7 @@ We can do something about this!
 We return to what I call my humble corner on the internet™.
 It's my hope that by writing here,
 I can encourage someone, somewhere in the Arab world
-to get involved in technology ad cloud native.
+to get involved in cloud native technology.
 
 This article, along with my [first](https://ali.dowair.com/en/posts/a-blog-is-born/),
 will serve as sort of living charters for this blog.
