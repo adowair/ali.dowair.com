@@ -114,7 +114,7 @@ We can do something about this!
 We return to what I call my humble corner on the internet™.
 It's my hope that by writing here,
 I can encourage someone, somewhere in the Arab world
-to get involved in technology ad cloud native.
+to get involved in cloud native technology.
 
 This article, along with my [first](https://ali.dowair.com/en/posts/a-blog-is-born/),
 will serve as sort of living charters for this blog.
