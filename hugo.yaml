@@ -6,6 +6,7 @@ defaultContentLanguage: en
 params:
   env: production
   contentDir: content/
+  showReadingTime: true
   homeInfoParams:
     enabled: true
     keywords: [blog, page]
