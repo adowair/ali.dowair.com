@@ -27,10 +27,7 @@ languages:
     params:
       homeInfoParams:
         title: Hello, I'm Ali!
-        content: I am a Certified Kubernetes Application Developer (CKAD) with 3 years of experience building virtualized and distributed storage for the cloud.
-        buttons:
-        - name: Hire Me!
-          url: https://linkedin.com/in/alidowair
+        content: I'm a cloud and open-source software engineer based out of Alexandria, Egypt.
 
   ar:
     weight: 2
@@ -41,8 +38,5 @@ languages:
     params:
       homeInfoParams:
         title: مرحباً، أنا عَلِّيٌ
-        content: أنا مهندس حاسوب و مطور تطبيقات (kubernetes) معتمد (CKAD). لدي خبرة ٣ سنوات في تطوير حلول التخزين الإفتراضية والموزعة لدى عدة شركات عالمية. حصلت على درجة البكالريوس من جامعة مشيجان بالولايات المتحدة الأمريكية سنة ٢٠٢٠م.
-        buttons:
-        - name: وَظِّفني
-          url: https://linkedin.com/in/alidowair
+        content: أنا مهندس حاسوب ومطور برامج سحابية ومفتوحة المصدر، أعمل في مدينة الإسكندرية بمصر.
 
