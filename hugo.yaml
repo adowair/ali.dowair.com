@@ -27,7 +27,7 @@ languages:
     params:
       homeInfoParams:
         title: Hello, I'm Ali!
-        content: I'm a cloud and open-source software engineer based out of Alexandria, Egypt.
+        content: I'm a cloud and open-source software engineer hailing from Alexandria, Egypt.
 
   ar:
     weight: 2
